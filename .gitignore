@@ -1,0 +1,11 @@
+.venv/
+.DS_Store
+__pycache__/
+frames/
+dataset_rf/
+dataset_block/
+*.zip
+runs/
+yolov8n.pt
+demo/demo_full_10s.mp4
+*_log.txt
